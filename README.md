@@ -1,4 +1,4 @@
- 📊 Student Habits and Performance Dashboard
+# 📊 Student Habits and Performance Dashboard
 
 This project analyzes a comprehensive dataset of 80,000 students to explore how various habits influence academic performance.
 
